@@ -1,6 +1,6 @@
 # Boston-Housing-Price-Forecasting-Model
 
-### Goal
+### Project Goal
 I will apply advanced machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. I will first explore the data to obtain important features and descriptive statistics about the dataset as well as eliminating outliers. Next, data will be splited using cross validation into testing and training subsets, and determine a suitable performance metric for this problem. Performance graphs and a learning algorithm with varying parameters will be designed to find the optimal arguments in order to pick the optimal model that best generalizes for unseen data. Finally, testing will be performed this optimal model on a new sample and compare the predicted selling price to our statistics.
  
 This model would prove to be invaluable for someone like a real estate agent who could make use of such information on a daily basis.
